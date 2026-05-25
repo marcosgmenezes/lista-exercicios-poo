@@ -1,6 +1,6 @@
 # Lista de Exercícios II - Parte 1
 
-Repositório destinado à resolução da primeira parte da Lista de Exercícios II da disciplina de Engenharia de Software / Sistemas de Informação.
+Repositório destinado à resolução da primeira parte da Lista de Exercícios II da disciplina de Sistemas de Informação.
 
 ## 🛠️ Tecnologias Utilizadas
 - **Python 3.10+**
@@ -17,11 +17,11 @@ Repositório destinado à resolução da primeira parte da Lista de Exercícios 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
 ```bash
-   git clone <link-do-seu-repositorio>
+   git clone <git clone https://github.com/marcosgmenezes/lista-exercicios-poo.git>
 ```
 3. Navegue até a pasta do projeto:
 ```bash
-  cd nome-do-repositorio
+  cd lista-exercicios-poo
 ```
 4. Execute o arquivo central de testes que roda o fluxo de todas as questões de forma integrada:
 ```bash
