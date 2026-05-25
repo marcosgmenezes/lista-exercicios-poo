@@ -17,7 +17,7 @@ Repositório destinado à resolução da primeira parte da Lista de Exercícios 
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Clone este repositório:
 ```bash
-   git clone <git clone https://github.com/marcosgmenezes/lista-exercicios-poo.git>
+   git clone <https://github.com/marcosgmenezes/lista-exercicios-poo.git>
 ```
 3. Navegue até a pasta do projeto:
 ```bash
