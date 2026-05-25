@@ -20,7 +20,7 @@ class Video(Midia):
         self.resolucao = resolucao
 
     def reproduzir(self):
-        print(f"▶️ Reproduzindo Vídeo: '{self.titulo}' em {self.resolucao}...")
+        print(f"Reproduzindo Vídeo: '{self.titulo}' em {self.resolucao}...")
 
 # 3. Subclasse Podcast
 class Podcast(Midia):
@@ -29,7 +29,7 @@ class Podcast(Midia):
         self.apresentador = apresentador
 
     def reproduzir(self):
-        print(f"🎙️ Reproduzindo Podcast: '{self.titulo}' com {self.apresentador}...")
+        print(f"Reproduzindo Podcast: '{self.titulo}' com {self.apresentador}...")
 
 # 4. Subclasse TextoNarrado
 class TextoNarrado(Midia):
@@ -38,7 +38,7 @@ class TextoNarrado(Midia):
         self.idioma = idioma
 
     def reproduzir(self):
-        print(f"📖 Reproduzindo Texto Narrado: '{self.titulo}' em [{self.idioma}]...")
+        print(f"Reproduzindo Texto Narrado: '{self.titulo}' em [{self.idioma}]...")
 
 # 5. Classe Plataforma
 class Plataforma:
