@@ -19,7 +19,7 @@ class NotificadorSMS(Notificador):
 # 4. Classe NotificadorApp
 class NotificadorApp(Notificador):
     def notificar(self, mensagem: str):
-        print(f"📱 Notificação Push no App: {mensagem}")
+        print(f"Notificação Push no App: {mensagem}")
 
 # 5. Classe CentralNotificacoes
 class CentralNotificacoes:
